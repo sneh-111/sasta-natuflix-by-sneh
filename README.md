@@ -34,16 +34,18 @@ Include a screenshot or GIF of your project:
 
 markdown
 Copy code
-![Screenshot of Sasta Natuflix]("C:\Users\Sneh\OneDrive\Pictures\Screenshots\Screenshot (1).png")  
+![Screenshot of Sasta Natuflix](" sasta-natuflix-screenshot1.png")  
+![Screenshot of Sasta Natuflix](" sasta-natuflix-screenshot2.png")  
+![Screenshot of Sasta Natuflix](" sasta-natuflix-screenshot3.png")  
+![Screenshot of Sasta Natuflix](" sasta-natuflix-screenshot4.png")  
 Contact
 GitHub: sneh-111
-Email: your.email@example.com
+Email: snehkakadiya1089@gmail.com
 Feel free to explore, learn, and share your feedback!
 
 License
 This project is licensed under the MIT License, allowing free use and modification with attribution.
 
-Let me know if you'd like assistance adding screenshots or hosting your project!
 
 
 
