@@ -27,7 +27,7 @@ Collaboration inquiries or suggestions
 General feedback on the project
 Bug reports or feature requests
 
-GitHub: sneh-111
+GitHub: https://github.com/sneh-111
 
 Email: snehkakadiya1089@gmail.com
 
