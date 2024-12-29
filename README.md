@@ -35,7 +35,7 @@ Include a screenshot or GIF of your project:
 markdown
 Copy code
 ![Screenshot of Sasta Natuflix](https://github.com/sneh-111/sasta-natuflix-by-sneh/blob/9467d10684e1f96a4ff2ae01aafd6c9278660b39/sasta-natuflix-screenshot-1.png)
-![Screenshot of Sasta Natuflix]("sasta-natuflix-screenshot-2.png")  
+![Screenshot of Sasta Natuflix](sasta-natuflix-screenshot-2.png)  
 ![Screenshot of Sasta Natuflix]("sasta-natuflix-screenshot-3.png")  
 ![Screenshot of Sasta Natuflix]("sasta-natuflix-screenshot-4.png")  
 
