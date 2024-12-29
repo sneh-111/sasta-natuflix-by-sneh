@@ -17,8 +17,8 @@ markdown
 Copy code
 ![sasta-natuflix-screenshot-1.png](https://github.com/sneh-111/sasta-natuflix-by-sneh/blob/0c958faf8e75db1ff56db0245038bad8ce9125d7/screenshots/sasta-natuflix-screenshot-1.png)
 ![sasta-natuflix-screenshot-1.png](https://github.com/sneh-111/sasta-natuflix-by-sneh/blob/0c958faf8e75db1ff56db0245038bad8ce9125d7/screenshots/sasta-natuflix-screenshot-2.png)
-![Screenshot of Sasta Natuflix](sasta-natuflix-screenshot-3.png)  
-![Screenshot of Sasta Natuflix](sasta-natuflix-screenshot-4.png)  
+![sasta-natuflix-screenshot-1.png](https://github.com/sneh-111/sasta-natuflix-by-sneh/blob/0c958faf8e75db1ff56db0245038bad8ce9125d7/screenshots/sasta-natuflix-screenshot-3.png) 
+![sasta-natuflix-screenshot-1.png](https://github.com/sneh-111/sasta-natuflix-by-sneh/blob/0c958faf8e75db1ff56db0245038bad8ce9125d7/screenshots/sasta-natuflix-screenshot-4.png) 
 
 Contact:-
 Feel free to reach out for any of the following reasons:
