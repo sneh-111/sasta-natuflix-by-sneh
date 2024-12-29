@@ -13,6 +13,13 @@ HTML: For structuring the content of the webpage.
 CSS: For styling, hover effects, and responsive design.
 Media Queries: To ensure the layout adjusts seamlessly across all screen sizes.
 
+🌐 Live Demo
+Experience the live version of Sasta Natuflix by visiting the link below:
+
+Live Demo:https://sneh-111.github.io/sasta-natuflix-by-sneh/
+
+Check out the design on various screen sizes, as the project uses media queries to ensure responsiveness across devices like desktops, tablets, and mobile phones.
+
 markdown
 Copy code
 ![sasta-natuflix-screenshot-1.png](https://github.com/sneh-111/sasta-natuflix-by-sneh/blob/0c958faf8e75db1ff56db0245038bad8ce9125d7/screenshots/sasta-natuflix-screenshot-1.png)
