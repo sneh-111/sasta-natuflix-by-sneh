@@ -37,7 +37,7 @@ GitHub: https://github.com/sneh-111
 
 Email: snehkakadiya1089@gmail.com
 
-Linkedin: https://www.linkedin.com/in/sneh-kakadiya-918461319
+Linkedin: www.linkedin.com/in/sneh-kakadiya-523470343
 
 Feel free to explore, learn, and share your feedback!
 
