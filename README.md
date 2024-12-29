@@ -13,17 +13,6 @@ HTML: For structuring the content of the webpage.
 CSS: For styling, hover effects, and responsive design.
 Media Queries: To ensure the layout adjusts seamlessly across all screen sizes.
 
-How to Use:-
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/sneh-111/sasta-natuflix-by-sneh.git  
-Navigate to the project folder:
-bash
-Copy code
-cd sasta-natuflix  
-Open the index.html file in your browser to view the project.
-
 markdown
 Copy code
 ![Screenshot of Sasta Natuflix](sasta-natuflix-screenshot-1.png)
@@ -31,13 +20,18 @@ Copy code
 ![Screenshot of Sasta Natuflix](sasta-natuflix-screenshot-3.png)  
 ![Screenshot of Sasta Natuflix](sasta-natuflix-screenshot-4.png)  
 
-Contact
-GitHub: sneh-111.
-Email: snehkakadiya1089@gmail.com.
+Contact:-
+Feel free to reach out for any of the following reasons:
+Project-related questions or issues
+Collaboration inquiries or suggestions
+General feedback on the project
+Bug reports or feature requests
+GitHub: sneh-111,
+Email: snehkakadiya1089@gmail.com
+Linkedin: https://www.linkedin.com/in/sneh-kakadiya-918461319
 
 Feel free to explore, learn, and share your feedback!
 
-License
 This project is licensed under the MIT License, allowing free use and modification with attribution.
 
 
