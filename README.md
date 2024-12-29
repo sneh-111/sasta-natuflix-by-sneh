@@ -34,10 +34,10 @@ Include a screenshot or GIF of your project:
 
 markdown
 Copy code
-![Screenshot of Sasta Natuflix](" sasta-natuflix-screenshot1.png")  
-![Screenshot of Sasta Natuflix](" sasta-natuflix-screenshot2.png")  
-![Screenshot of Sasta Natuflix](" sasta-natuflix-screenshot3.png")  
-![Screenshot of Sasta Natuflix](" sasta-natuflix-screenshot4.png")  
+![Screenshot of Sasta Natuflix](" sasta-natuflix-screenshot-1.png")  
+![Screenshot of Sasta Natuflix](" sasta-natuflix-screenshot-2.png")  
+![Screenshot of Sasta Natuflix](" sasta-natuflix-screenshot-3.png")  
+![Screenshot of Sasta Natuflix](" sasta-natuflix-screenshot-4.png")  
 Contact
 GitHub: sneh-111
 Email: snehkakadiya1089@gmail.com
