@@ -22,10 +22,10 @@ Copy code
 
 Contact:-
 Feel free to reach out for any of the following reasons:
-Project-related questions or issues
-Collaboration inquiries or suggestions
-General feedback on the project
-Bug reports or feature requests
+Project-related questions or issues,
+Collaboration inquiries or suggestions,
+General feedback on the project,
+Bug reports or feature requests.
 
 GitHub: https://github.com/sneh-111
 
