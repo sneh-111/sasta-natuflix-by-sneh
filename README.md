@@ -35,7 +35,7 @@ Bug reports or feature requests.
 
 GitHub: https://github.com/sneh-111
 
-Email: snehkakadiya1089@gmail.com
+Email: sneh24677@gmail.com
 
 Linkedin: www.linkedin.com/in/sneh-kakadiya-523470343
 
